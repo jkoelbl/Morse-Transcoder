@@ -35,3 +35,24 @@ z,llss_
 9,lllls_
 0,lllll_
  ,__
+.,slslsl_
+",",llssll_
+?,ssllss_
+',slllls_
+/,lssls_
+(,lslls_
+),lsllsl_
+&,slsss_
+:,lllsss_
+=,lsssl_
++,slsls_
+-,lssssl_
+"\"",slssls_
+@,sllsls_
+"End of Work",ssslsl_
+"Error",ssssssss_
+"Invite",lsl_
+"Start",lslsl_
+"New Page",slsls_
+"Understood",sssls_
+"Wait",slsss_
