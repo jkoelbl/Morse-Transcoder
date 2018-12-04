@@ -14,11 +14,14 @@ def get_message(raw, codes):
     return msg
 
 if __name__ == '__main__':
+    raw = ''
     if len(sys.argv) > 1:
-        codes = get_encoding()
         raw = sys.argv[1].lower()
-        if is_valid_message(raw, codes):
-            msg = get_message(raw, codes)
-            print(msg)
-        else:
-            print('not a valid message')
+    else:
+        raw = input('Enter Message: ')
+    codes = get_encoding()
+    if is_valid_message(raw, codes):
+        msg = get_message(raw, codes)
+        print(msg)
+    else:
+        print('not a valid message')
